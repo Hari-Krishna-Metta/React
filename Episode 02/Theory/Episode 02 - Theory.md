@@ -1,7 +1,3 @@
-## Namaste React Course by Akshay Saini
-
-# _Episode 02 - Igniting Our App_
-
 ## Q: What is `npm`?
 
 A: `npm` is the world's largest Software Registry. The registry contains over 800,000 code packages. Open-source developers use `npm` to share software.
