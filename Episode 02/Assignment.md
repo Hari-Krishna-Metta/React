@@ -1,7 +1,3 @@
-## Namaste React Course by Akshay Saini
-
-# _Episode 02 - Igniting Our App_
-
 ## Theory :
 
 - What is `npm`?
