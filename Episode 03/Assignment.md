@@ -1,7 +1,3 @@
-## Namaste React Course by Akshay Saini
-
-# Episode 03 - Laying the Foundation
-
 ## Topics
 
 - `JSX`
